@@ -20,7 +20,7 @@
   <p><strong><em>BUD-SLAM: Budget-aware Update and Decay for Dynamic SLAM.</em></strong></p>
   
   <p>
-    <a href="https://github.com/dongyu-hpc"><strong>Dongyu Gao</strong></a> &nbsp;·&nbsp;
+    <a href=""><strong></strong></a> &nbsp;·&nbsp;
     <!-- <a href="https://lucacarlone.mit.edu/"><strong>Luca Carlone</strong></a> -->
   </p>
 </div>
